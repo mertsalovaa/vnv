@@ -17,7 +17,7 @@ export default function WhyUs() {
       <Title><span>/</span> Чому ми</Title>
       <div className="w-100 d-flex flex-wrap align-items-center justify-content-center">
         {advantages.map((item, index) => (
-          <div className="advantage" key={index}>
+          <div className="d-flex flex-column justify-content-around" key={index}>
             <h3>{item.title}</h3>
             <p>{item.desc}</p>
           </div>

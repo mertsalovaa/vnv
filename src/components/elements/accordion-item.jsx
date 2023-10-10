@@ -21,8 +21,8 @@ export function Accordion(props) {
   //open animation with react spring
 
   const openAnimation = useSpring({
-    from: { opacity: "0", maxHeight: "7vh" },
-    to: { opacity: "1", maxHeight: open ? "30vh" : "7vh" },
+    from: { opacity: "0", maxHeight: "10vh" },
+    to: { opacity: "1", maxHeight: open ? "30vh" : "10vh" },
     config: { duration: "300" },
   });
 
