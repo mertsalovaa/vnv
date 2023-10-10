@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vnv/static/css/main.c620aa0c.css",
+    "main.js": "/vnv/static/js/main.6ae602d6.js",
+    "static/media/2.png": "/vnv/static/media/2.c8d682368046ee8b113a.png",
+    "static/media/3.png": "/vnv/static/media/3.4aee7ccfdbfefe5ee97e.png",
+    "static/media/1.png": "/vnv/static/media/1.f7fbcc0447d35a07aea3.png",
+    "static/media/vnv-logo.png": "/vnv/static/media/vnv-logo.6328696c9eac305aeaef.png",
+    "index.html": "/vnv/index.html",
+    "main.c620aa0c.css.map": "/vnv/static/css/main.c620aa0c.css.map",
+    "main.6ae602d6.js.map": "/vnv/static/js/main.6ae602d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c620aa0c.css",
+    "static/js/main.6ae602d6.js"
+  ]
+}
